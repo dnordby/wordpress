@@ -1,0 +1,6 @@
+<!DOCTYPE html><html><head><meta charset=utf-8><title><?php wp_title(); ?></title><meta name=viewport content="width=device-width"> <?php wp_head(); ?> <script type=text/javascript>(function (d, t) {
+        var bh = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        bh.type = 'text/javascript';
+        bh.src = 'https://www.bugherd.com/sidebarv2.js?apikey=kjlvjaqtqgfplsxzu7jkdg';
+        s.parentNode.insertBefore(bh, s);
+        })(document, 'script');</script><link href=wp-content/themes/brooks_falotico/assets/css/app.63b5d4694f55546974873f0f8e1a666e.css rel=stylesheet></head><body <?php body_class(); ?>><div id=app></div> <?php wp_footer(); ?> <script type=text/javascript src=wp-content/themes/brooks_falotico/assets/js/manifest.4032e545768020478d66.js></script><script type=text/javascript src=wp-content/themes/brooks_falotico/assets/js/vendor.0447751c3055b147509b.js></script><script type=text/javascript src=wp-content/themes/brooks_falotico/assets/js/app.b9d2c8298a12de36cced.js></script></body></html>
